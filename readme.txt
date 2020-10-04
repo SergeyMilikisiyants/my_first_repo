@@ -1,4 +1,4 @@
 Welcome to my first repo
 Learning Git
 Updating line
-One more line to test branching
+One conflicting line to test branching
